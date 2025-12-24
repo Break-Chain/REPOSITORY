@@ -1,4 +1,2 @@
 # REPOSITORY
-
-#java  
-#e-mail:marvexjoe@outlook.com
+e-mail:marvexjoe@outlook.com
