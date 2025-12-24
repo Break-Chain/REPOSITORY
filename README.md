@@ -1,2 +1,2 @@
 # REPOSITORY
-**e-mail:** *marvexjoe@outlook.com*
+**e-mail:** <marvexjoe@outlook.com>
